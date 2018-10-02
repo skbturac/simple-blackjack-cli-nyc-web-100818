@@ -25,7 +25,7 @@ end
 
 def end_game
   # code #end_game here
-  "Sorry, you hit "
+  "Sorry, you hit #{}"
 end
 
 def initial_round
