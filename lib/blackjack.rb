@@ -9,7 +9,7 @@ end
 
 def display_card_total
   # code #display_card_total here
-  puts 
+  puts #{card_total}
 end
 
 def prompt_user
