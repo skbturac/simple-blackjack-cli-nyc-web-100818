@@ -9,7 +9,7 @@ end
 
 def display_card_total(card_total)
   # code #display_card_total here
-  puts #{card_total}
+  puts "#{card_total}"
   card_total
 end
 
