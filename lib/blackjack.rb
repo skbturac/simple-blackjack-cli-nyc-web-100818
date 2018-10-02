@@ -9,6 +9,7 @@ end
 
 def display_card_total
   # code #display_card_total here
+  puts 
 end
 
 def prompt_user
